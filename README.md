@@ -65,3 +65,10 @@ This project aims to create an interactive dashboard for Formula 1 racing data a
 3. Explore the various visualizations and insights provided in the dashboards.
 
 
+  ![F1](https://github.com/user-attachments/assets/d5016a7f-394c-4eee-8843-33e2d85078dd)
+  ![image](https://github.com/user-attachments/assets/e16014e9-b402-4b09-8537-0308da5d118e)
+
+
+
+
+
